@@ -1,0 +1,6 @@
+{
+  name: "Pikachu",
+  hp: "60",
+  power: "Lightning",
+  type: "Electric",
+}
